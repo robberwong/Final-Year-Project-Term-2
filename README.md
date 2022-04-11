@@ -13,21 +13,21 @@
 
 File structure
 
-data
-├──musan
-├──────speech
-├────────speech_folders
-├───────────speech files in each folders
-├──────music
-├────────music_folders
-├───────────music files in each folders
-temp
-├──unprocessed audio folder
-├──────unprocessed audio or video
-temp_cutted
-├──processed audio folder
-├──────processed audio
-test
-├──evaluation folder
-├──────evalation audio file
+data<br />
+├──musan<br />
+├──────speech<br />
+├────────speech_folders<br />
+├───────────speech files in each folders<br />
+├──────music<br />
+├────────music_folders<br />
+├───────────music files in each folders<br />
+temp<br />
+├──unprocessed audio folder<br />
+├──────unprocessed audio or video<br />
+temp_cutted<br />
+├──processed audio folder<br />
+├──────processed audio<br />
+test<br />
+├──evaluation folder<br />
+├──────evalation audio file<br />
     
