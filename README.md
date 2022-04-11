@@ -14,20 +14,20 @@
 File structure
 
 data
-  musan
-    speech
-       speech_folders
-          speech files in each folders
-    music
-        music_folders
-          music files in each folders
+├──musan
+├──────speech
+├────────speech_folders
+├───────────speech files in each folders
+├──────music
+├────────music_folders
+├───────────music files in each folders
 temp
-  unprocessed audio folder
-    unprocessed audio or video
+├──unprocessed audio folder
+├──────unprocessed audio or video
 temp_cutted
-  processed audio folder
-    processed audio
+├──processed audio folder
+├──────processed audio
 test
-  evaluation folder
-    evalation audio file
+├──evaluation folder
+├──────evalation audio file
     
